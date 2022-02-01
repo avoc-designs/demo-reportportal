@@ -13,7 +13,7 @@
 
 <p style="text-align: justify;">Next, the link to the file is provided: <a href="https://github.com/reportportal/reportportal/blob/master/docker-compose.yml">docker-compose.yml</a>.</p>
 
-<p style="text-align: justify;">Once the tool is deployed locally, we will access it through the route <code style="font-size:13px"> http://localhost:8080 </code>  where the login window will appear.</p>
+<p style="text-align: justify;">Once the tool is deployed locally, we will access it through the route <code style="font-size:13px"> http://localhost:8080</code> where the login window will appear.</p>
 
 <p style="text-align: justify;">The default credentials are the following:</p>
 

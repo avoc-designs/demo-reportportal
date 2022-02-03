@@ -1,5 +1,6 @@
-data
-node_modules
-screenshots
-videos
-fixtures
+data/
+node_modules/
+screenshots/
+videos/
+fixtures/
+config/

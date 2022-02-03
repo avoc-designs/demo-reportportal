@@ -1,0 +1,16 @@
+{
+  "name": "tool2-jestjs",
+  "version": "1.0.0",
+  "description": "Poc reportportal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "jest": "jest",
+    "jest:WNT": "jest --passWithNoTests"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.4.7"
+  }
+}

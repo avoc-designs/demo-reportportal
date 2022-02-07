@@ -7,6 +7,9 @@
 * The [<b>dashboard</b>](https://github.com/avoc-designs/demo-reportportal/tree/main/dashboard) folder where we will find the [<b>docker-compose.yml</b>](https://github.com/avoc-designs/demo-reportportal/blob/main/dashboard/docker-compose.yml) file that we will use to boot following the given [instructions](https://github.com/avoc-designs/demo-reportportal/tree/main/docs/reportportal).
 * Next we will find the [<b>docs</b>](https://github.com/avoc-designs/demo-reportportal/tree/main/docs) folder that contains the different <b>instructions for use and installation of the tools</b> used.
 * Finally we will find the [<b>testing-tools</b>](https://github.com/avoc-designs/demo-reportportal/tree/main/testing-tools) folder that will <b>contain the different tools used</b> for the demonstration.
+---
+
+<h2 style="text-align:center;">File browser</h2>
 
 * [dashboard](./dashboard/)
   * [docker-compose](./dashboard/docker-compose.yml)

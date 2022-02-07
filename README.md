@@ -1,5 +1,3 @@
-<script src="https://gist.github.com/rxaviers/7360908.js"></script>
-
 <h1 style="text-align:center;">Demo Reportportal</h1>
 
 <p style="text-align:justify;">This repository proposes reportportal as dashboard that collects information issued by the different testing tools and with this facilitates the view and study of their results.</p>

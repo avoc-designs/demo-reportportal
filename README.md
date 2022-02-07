@@ -40,7 +40,23 @@
     * [package-lock.json](./testing-tools/tool2-jest/package-lock.json)
     * [package.json](./testing-tools/tool2-jest/package.json)
   
-  
+
 ---
 <h2 style="text-align: center;">
-Index</h2>
+Step by step</h2>
+
+1.- Download and run docker-compose.yml file.
+
+2.- Choose a testing tool and install it.
+
+3.- Carry out the integration of said tool with reportportal.
+
+4.- Run the tests as usual.
+
+5.- Enter the reportportal interface and login with the admin user or desired user.
+
+6.- Create a dashboard to later be able to create the views you want.
+
+7.- Create filters
+
+8.- Finally use the widgets to generate the views in the dashboard (use the filters for this)

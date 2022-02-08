@@ -1,6 +1,5 @@
 module.exports = {
     testRunner: 'jest-circus/runner',
-    testRegex: ['/__tests__/.*.spec.js?$'],
     reporters: [
         'default',
         [
